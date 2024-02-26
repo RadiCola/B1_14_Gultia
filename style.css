@@ -23,3 +23,13 @@ img{
     width:200px;
     height:290px;
 }
+.vid {
+   display: flex;
+   width: 300px;
+   height: 240px;
+}
+.aud{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
